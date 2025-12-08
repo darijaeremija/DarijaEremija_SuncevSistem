@@ -1,0 +1,793 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="100mm" height="100mm" viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg">
+<title>GCLCOutputFigure</title>
+
+<!-- Changing color 0 0 0 -->
+
+<!-- Drawing segment A B -->
+<line x1="0.00" y1="100.00" x2="100.00" y2="100.00" style="stroke:#000000; stroke-width:1.30"/>
+
+<!-- Changing color 0 0 1 -->
+
+<!-- Drawing segment A B -->
+<line x1="0.00" y1="99.00" x2="100.00" y2="99.00" style="stroke:#000001; stroke-width:1.30"/>
+
+<!-- Changing color 0 0 2 -->
+
+<!-- Drawing segment A B -->
+<line x1="0.00" y1="98.00" x2="100.00" y2="98.00" style="stroke:#000002; stroke-width:1.30"/>
+
+<!-- Changing color 0 0 3 -->
+
+<!-- Drawing segment A B -->
+<line x1="0.00" y1="97.00" x2="100.00" y2="97.00" style="stroke:#000003; stroke-width:1.30"/>
+
+<!-- Changing color 0 0 4 -->
+
+<!-- Drawing segment A B -->
+<line x1="0.00" y1="96.00" x2="100.00" y2="96.00" style="stroke:#000004; stroke-width:1.30"/>
+
+<!-- Changing color 0 0 5 -->
+
+<!-- Drawing segment A B -->
+<line x1="0.00" y1="95.00" x2="100.00" y2="95.00" style="stroke:#000005; stroke-width:1.30"/>
+
+<!-- Changing color 0 0 6 -->
+
+<!-- Drawing segment A B -->
+<line x1="0.00" y1="94.00" x2="100.00" y2="94.00" style="stroke:#000006; stroke-width:1.30"/>
+
+<!-- Changing color 0 0 7 -->
+
+<!-- Drawing segment A B -->
+<line x1="0.00" y1="93.00" x2="100.00" y2="93.00" style="stroke:#000007; stroke-width:1.30"/>
+
+<!-- Changing color 0 0 8 -->
+
+<!-- Drawing segment A B -->
+<line x1="0.00" y1="92.00" x2="100.00" y2="92.00" style="stroke:#000008; stroke-width:1.30"/>
+
+<!-- Changing color 0 0 9 -->
+
+<!-- Drawing segment A B -->
+<line x1="0.00" y1="91.00" x2="100.00" y2="91.00" style="stroke:#000009; stroke-width:1.30"/>
+
+<!-- Changing color 0 0 10 -->
+
+<!-- Drawing segment A B -->
+<line x1="0.00" y1="90.00" x2="100.00" y2="90.00" style="stroke:#00000A; stroke-width:1.30"/>
+
+<!-- Changing color 0 0 11 -->
+
+<!-- Drawing segment A B -->
+<line x1="0.00" y1="89.00" x2="100.00" y2="89.00" style="stroke:#00000B; stroke-width:1.30"/>
+
+<!-- Changing color 0 0 12 -->
+
+<!-- Drawing segment A B -->
+<line x1="0.00" y1="88.00" x2="100.00" y2="88.00" style="stroke:#00000C; stroke-width:1.30"/>
+
+<!-- Changing color 0 0 13 -->
+
+<!-- Drawing segment A B -->
+<line x1="0.00" y1="87.00" x2="100.00" y2="87.00" style="stroke:#00000D; stroke-width:1.30"/>
+
+<!-- Changing color 0 0 14 -->
+
+<!-- Drawing segment A B -->
+<line x1="0.00" y1="86.00" x2="100.00" y2="86.00" style="stroke:#00000E; stroke-width:1.30"/>
+
+<!-- Changing color 0 0 15 -->
+
+<!-- Drawing segment A B -->
+<line x1="0.00" y1="85.00" x2="100.00" y2="85.00" style="stroke:#00000F; stroke-width:1.30"/>
+
+<!-- Changing color 0 0 16 -->
+
+<!-- Drawing segment A B -->
+<line x1="0.00" y1="84.00" x2="100.00" y2="84.00" style="stroke:#000010; stroke-width:1.30"/>
+
+<!-- Changing color 0 0 17 -->
+
+<!-- Drawing segment A B -->
+<line x1="0.00" y1="83.00" x2="100.00" y2="83.00" style="stroke:#000011; stroke-width:1.30"/>
+
+<!-- Changing color 0 0 18 -->
+
+<!-- Drawing segment A B -->
+<line x1="0.00" y1="82.00" x2="100.00" y2="82.00" style="stroke:#000012; stroke-width:1.30"/>
+
+<!-- Changing color 0 0 19 -->
+
+<!-- Drawing segment A B -->
+<line x1="0.00" y1="81.00" x2="100.00" y2="81.00" style="stroke:#000013; stroke-width:1.30"/>
+
+<!-- Changing color 0 0 20 -->
+
+<!-- Drawing segment A B -->
+<line x1="0.00" y1="80.00" x2="100.00" y2="80.00" style="stroke:#000014; stroke-width:1.30"/>
+
+<!-- Changing color 0 0 21 -->
+
+<!-- Drawing segment A B -->
+<line x1="0.00" y1="79.00" x2="100.00" y2="79.00" style="stroke:#000015; stroke-width:1.30"/>
+
+<!-- Changing color 0 0 22 -->
+
+<!-- Drawing segment A B -->
+<line x1="0.00" y1="78.00" x2="100.00" y2="78.00" style="stroke:#000016; stroke-width:1.30"/>
+
+<!-- Changing color 0 0 23 -->
+
+<!-- Drawing segment A B -->
+<line x1="0.00" y1="77.00" x2="100.00" y2="77.00" style="stroke:#000017; stroke-width:1.30"/>
+
+<!-- Changing color 0 0 24 -->
+
+<!-- Drawing segment A B -->
+<line x1="0.00" y1="76.00" x2="100.00" y2="76.00" style="stroke:#000018; stroke-width:1.30"/>
+
+<!-- Changing color 0 0 25 -->
+
+<!-- Drawing segment A B -->
+<line x1="0.00" y1="75.00" x2="100.00" y2="75.00" style="stroke:#000019; stroke-width:1.30"/>
+
+<!-- Changing color 0 0 26 -->
+
+<!-- Drawing segment A B -->
+<line x1="0.00" y1="74.00" x2="100.00" y2="74.00" style="stroke:#00001A; stroke-width:1.30"/>
+
+<!-- Changing color 0 0 27 -->
+
+<!-- Drawing segment A B -->
+<line x1="0.00" y1="73.00" x2="100.00" y2="73.00" style="stroke:#00001B; stroke-width:1.30"/>
+
+<!-- Changing color 0 0 28 -->
+
+<!-- Drawing segment A B -->
+<line x1="0.00" y1="72.00" x2="100.00" y2="72.00" style="stroke:#00001C; stroke-width:1.30"/>
+
+<!-- Changing color 0 0 29 -->
+
+<!-- Drawing segment A B -->
+<line x1="0.00" y1="71.00" x2="100.00" y2="71.00" style="stroke:#00001D; stroke-width:1.30"/>
+
+<!-- Changing color 0 0 30 -->
+
+<!-- Drawing segment A B -->
+<line x1="0.00" y1="70.00" x2="100.00" y2="70.00" style="stroke:#00001E; stroke-width:1.30"/>
+
+<!-- Changing color 0 0 31 -->
+
+<!-- Drawing segment A B -->
+<line x1="0.00" y1="69.00" x2="100.00" y2="69.00" style="stroke:#00001F; stroke-width:1.30"/>
+
+<!-- Changing color 0 0 32 -->
+
+<!-- Drawing segment A B -->
+<line x1="0.00" y1="68.00" x2="100.00" y2="68.00" style="stroke:#000020; stroke-width:1.30"/>
+
+<!-- Changing color 0 0 33 -->
+
+<!-- Drawing segment A B -->
+<line x1="0.00" y1="67.00" x2="100.00" y2="67.00" style="stroke:#000021; stroke-width:1.30"/>
+
+<!-- Changing color 0 0 34 -->
+
+<!-- Drawing segment A B -->
+<line x1="0.00" y1="66.00" x2="100.00" y2="66.00" style="stroke:#000022; stroke-width:1.30"/>
+
+<!-- Changing color 0 0 35 -->
+
+<!-- Drawing segment A B -->
+<line x1="0.00" y1="65.00" x2="100.00" y2="65.00" style="stroke:#000023; stroke-width:1.30"/>
+
+<!-- Changing color 0 0 36 -->
+
+<!-- Drawing segment A B -->
+<line x1="0.00" y1="64.00" x2="100.00" y2="64.00" style="stroke:#000024; stroke-width:1.30"/>
+
+<!-- Changing color 0 0 37 -->
+
+<!-- Drawing segment A B -->
+<line x1="0.00" y1="63.00" x2="100.00" y2="63.00" style="stroke:#000025; stroke-width:1.30"/>
+
+<!-- Changing color 0 0 38 -->
+
+<!-- Drawing segment A B -->
+<line x1="0.00" y1="62.00" x2="100.00" y2="62.00" style="stroke:#000026; stroke-width:1.30"/>
+
+<!-- Changing color 0 0 39 -->
+
+<!-- Drawing segment A B -->
+<line x1="0.00" y1="61.00" x2="100.00" y2="61.00" style="stroke:#000027; stroke-width:1.30"/>
+
+<!-- Changing color 0 0 40 -->
+
+<!-- Drawing segment A B -->
+<line x1="0.00" y1="60.00" x2="100.00" y2="60.00" style="stroke:#000028; stroke-width:1.30"/>
+
+<!-- Changing color 0 0 41 -->
+
+<!-- Drawing segment A B -->
+<line x1="0.00" y1="59.00" x2="100.00" y2="59.00" style="stroke:#000029; stroke-width:1.30"/>
+
+<!-- Changing color 0 0 42 -->
+
+<!-- Drawing segment A B -->
+<line x1="0.00" y1="58.00" x2="100.00" y2="58.00" style="stroke:#00002A; stroke-width:1.30"/>
+
+<!-- Changing color 0 0 43 -->
+
+<!-- Drawing segment A B -->
+<line x1="0.00" y1="57.00" x2="100.00" y2="57.00" style="stroke:#00002B; stroke-width:1.30"/>
+
+<!-- Changing color 0 0 44 -->
+
+<!-- Drawing segment A B -->
+<line x1="0.00" y1="56.00" x2="100.00" y2="56.00" style="stroke:#00002C; stroke-width:1.30"/>
+
+<!-- Changing color 0 0 45 -->
+
+<!-- Drawing segment A B -->
+<line x1="0.00" y1="55.00" x2="100.00" y2="55.00" style="stroke:#00002D; stroke-width:1.30"/>
+
+<!-- Changing color 0 0 46 -->
+
+<!-- Drawing segment A B -->
+<line x1="0.00" y1="54.00" x2="100.00" y2="54.00" style="stroke:#00002E; stroke-width:1.30"/>
+
+<!-- Changing color 0 0 47 -->
+
+<!-- Drawing segment A B -->
+<line x1="0.00" y1="53.00" x2="100.00" y2="53.00" style="stroke:#00002F; stroke-width:1.30"/>
+
+<!-- Changing color 0 0 48 -->
+
+<!-- Drawing segment A B -->
+<line x1="0.00" y1="52.00" x2="100.00" y2="52.00" style="stroke:#000030; stroke-width:1.30"/>
+
+<!-- Changing color 0 0 49 -->
+
+<!-- Drawing segment A B -->
+<line x1="0.00" y1="51.00" x2="100.00" y2="51.00" style="stroke:#000031; stroke-width:1.30"/>
+
+<!-- Changing color 0 0 50 -->
+
+<!-- Drawing segment A B -->
+<line x1="0.00" y1="50.00" x2="100.00" y2="50.00" style="stroke:#000032; stroke-width:1.30"/>
+
+<!-- Changing color 0 0 51 -->
+
+<!-- Drawing segment A B -->
+<line x1="0.00" y1="49.00" x2="100.00" y2="49.00" style="stroke:#000033; stroke-width:1.30"/>
+
+<!-- Changing color 0 0 52 -->
+
+<!-- Drawing segment A B -->
+<line x1="0.00" y1="48.00" x2="100.00" y2="48.00" style="stroke:#000034; stroke-width:1.30"/>
+
+<!-- Changing color 0 0 53 -->
+
+<!-- Drawing segment A B -->
+<line x1="0.00" y1="47.00" x2="100.00" y2="47.00" style="stroke:#000035; stroke-width:1.30"/>
+
+<!-- Changing color 0 0 54 -->
+
+<!-- Drawing segment A B -->
+<line x1="0.00" y1="46.00" x2="100.00" y2="46.00" style="stroke:#000036; stroke-width:1.30"/>
+
+<!-- Changing color 0 0 55 -->
+
+<!-- Drawing segment A B -->
+<line x1="0.00" y1="45.00" x2="100.00" y2="45.00" style="stroke:#000037; stroke-width:1.30"/>
+
+<!-- Changing color 0 0 56 -->
+
+<!-- Drawing segment A B -->
+<line x1="0.00" y1="44.00" x2="100.00" y2="44.00" style="stroke:#000038; stroke-width:1.30"/>
+
+<!-- Changing color 0 0 57 -->
+
+<!-- Drawing segment A B -->
+<line x1="0.00" y1="43.00" x2="100.00" y2="43.00" style="stroke:#000039; stroke-width:1.30"/>
+
+<!-- Changing color 0 0 58 -->
+
+<!-- Drawing segment A B -->
+<line x1="0.00" y1="42.00" x2="100.00" y2="42.00" style="stroke:#00003A; stroke-width:1.30"/>
+
+<!-- Changing color 0 0 59 -->
+
+<!-- Drawing segment A B -->
+<line x1="0.00" y1="41.00" x2="100.00" y2="41.00" style="stroke:#00003B; stroke-width:1.30"/>
+
+<!-- Changing color 0 0 60 -->
+
+<!-- Drawing segment A B -->
+<line x1="0.00" y1="40.00" x2="100.00" y2="40.00" style="stroke:#00003C; stroke-width:1.30"/>
+
+<!-- Changing color 0 0 61 -->
+
+<!-- Drawing segment A B -->
+<line x1="0.00" y1="39.00" x2="100.00" y2="39.00" style="stroke:#00003D; stroke-width:1.30"/>
+
+<!-- Changing color 0 0 62 -->
+
+<!-- Drawing segment A B -->
+<line x1="0.00" y1="38.00" x2="100.00" y2="38.00" style="stroke:#00003E; stroke-width:1.30"/>
+
+<!-- Changing color 0 0 63 -->
+
+<!-- Drawing segment A B -->
+<line x1="0.00" y1="37.00" x2="100.00" y2="37.00" style="stroke:#00003F; stroke-width:1.30"/>
+
+<!-- Changing color 0 0 64 -->
+
+<!-- Drawing segment A B -->
+<line x1="0.00" y1="36.00" x2="100.00" y2="36.00" style="stroke:#000040; stroke-width:1.30"/>
+
+<!-- Changing color 0 0 65 -->
+
+<!-- Drawing segment A B -->
+<line x1="0.00" y1="35.00" x2="100.00" y2="35.00" style="stroke:#000041; stroke-width:1.30"/>
+
+<!-- Changing color 0 0 66 -->
+
+<!-- Drawing segment A B -->
+<line x1="0.00" y1="34.00" x2="100.00" y2="34.00" style="stroke:#000042; stroke-width:1.30"/>
+
+<!-- Changing color 0 0 67 -->
+
+<!-- Drawing segment A B -->
+<line x1="0.00" y1="33.00" x2="100.00" y2="33.00" style="stroke:#000043; stroke-width:1.30"/>
+
+<!-- Changing color 0 0 68 -->
+
+<!-- Drawing segment A B -->
+<line x1="0.00" y1="32.00" x2="100.00" y2="32.00" style="stroke:#000044; stroke-width:1.30"/>
+
+<!-- Changing color 0 0 69 -->
+
+<!-- Drawing segment A B -->
+<line x1="0.00" y1="31.00" x2="100.00" y2="31.00" style="stroke:#000045; stroke-width:1.30"/>
+
+<!-- Changing color 0 0 70 -->
+
+<!-- Drawing segment A B -->
+<line x1="0.00" y1="30.00" x2="100.00" y2="30.00" style="stroke:#000046; stroke-width:1.30"/>
+
+<!-- Changing color 0 0 71 -->
+
+<!-- Drawing segment A B -->
+<line x1="0.00" y1="29.00" x2="100.00" y2="29.00" style="stroke:#000047; stroke-width:1.30"/>
+
+<!-- Changing color 0 0 72 -->
+
+<!-- Drawing segment A B -->
+<line x1="0.00" y1="28.00" x2="100.00" y2="28.00" style="stroke:#000048; stroke-width:1.30"/>
+
+<!-- Changing color 0 0 73 -->
+
+<!-- Drawing segment A B -->
+<line x1="0.00" y1="27.00" x2="100.00" y2="27.00" style="stroke:#000049; stroke-width:1.30"/>
+
+<!-- Changing color 0 0 74 -->
+
+<!-- Drawing segment A B -->
+<line x1="0.00" y1="26.00" x2="100.00" y2="26.00" style="stroke:#00004A; stroke-width:1.30"/>
+
+<!-- Changing color 0 0 75 -->
+
+<!-- Drawing segment A B -->
+<line x1="0.00" y1="25.00" x2="100.00" y2="25.00" style="stroke:#00004B; stroke-width:1.30"/>
+
+<!-- Changing color 0 0 76 -->
+
+<!-- Drawing segment A B -->
+<line x1="0.00" y1="24.00" x2="100.00" y2="24.00" style="stroke:#00004C; stroke-width:1.30"/>
+
+<!-- Changing color 0 0 77 -->
+
+<!-- Drawing segment A B -->
+<line x1="0.00" y1="23.00" x2="100.00" y2="23.00" style="stroke:#00004D; stroke-width:1.30"/>
+
+<!-- Changing color 0 0 78 -->
+
+<!-- Drawing segment A B -->
+<line x1="0.00" y1="22.00" x2="100.00" y2="22.00" style="stroke:#00004E; stroke-width:1.30"/>
+
+<!-- Changing color 0 0 79 -->
+
+<!-- Drawing segment A B -->
+<line x1="0.00" y1="21.00" x2="100.00" y2="21.00" style="stroke:#00004F; stroke-width:1.30"/>
+
+<!-- Changing color 0 0 80 -->
+
+<!-- Drawing segment A B -->
+<line x1="0.00" y1="20.00" x2="100.00" y2="20.00" style="stroke:#000050; stroke-width:1.30"/>
+
+<!-- Changing color 0 0 81 -->
+
+<!-- Drawing segment A B -->
+<line x1="0.00" y1="19.00" x2="100.00" y2="19.00" style="stroke:#000051; stroke-width:1.30"/>
+
+<!-- Changing color 0 0 82 -->
+
+<!-- Drawing segment A B -->
+<line x1="0.00" y1="18.00" x2="100.00" y2="18.00" style="stroke:#000052; stroke-width:1.30"/>
+
+<!-- Changing color 0 0 83 -->
+
+<!-- Drawing segment A B -->
+<line x1="0.00" y1="17.00" x2="100.00" y2="17.00" style="stroke:#000053; stroke-width:1.30"/>
+
+<!-- Changing color 0 0 84 -->
+
+<!-- Drawing segment A B -->
+<line x1="0.00" y1="16.00" x2="100.00" y2="16.00" style="stroke:#000054; stroke-width:1.30"/>
+
+<!-- Changing color 0 0 85 -->
+
+<!-- Drawing segment A B -->
+<line x1="0.00" y1="15.00" x2="100.00" y2="15.00" style="stroke:#000055; stroke-width:1.30"/>
+
+<!-- Changing color 0 0 86 -->
+
+<!-- Drawing segment A B -->
+<line x1="0.00" y1="14.00" x2="100.00" y2="14.00" style="stroke:#000056; stroke-width:1.30"/>
+
+<!-- Changing color 0 0 87 -->
+
+<!-- Drawing segment A B -->
+<line x1="0.00" y1="13.00" x2="100.00" y2="13.00" style="stroke:#000057; stroke-width:1.30"/>
+
+<!-- Changing color 0 0 88 -->
+
+<!-- Drawing segment A B -->
+<line x1="0.00" y1="12.00" x2="100.00" y2="12.00" style="stroke:#000058; stroke-width:1.30"/>
+
+<!-- Changing color 0 0 89 -->
+
+<!-- Drawing segment A B -->
+<line x1="0.00" y1="11.00" x2="100.00" y2="11.00" style="stroke:#000059; stroke-width:1.30"/>
+
+<!-- Changing color 0 0 90 -->
+
+<!-- Drawing segment A B -->
+<line x1="0.00" y1="10.00" x2="100.00" y2="10.00" style="stroke:#00005A; stroke-width:1.30"/>
+
+<!-- Changing color 0 0 91 -->
+
+<!-- Drawing segment A B -->
+<line x1="0.00" y1="9.00" x2="100.00" y2="9.00" style="stroke:#00005B; stroke-width:1.30"/>
+
+<!-- Changing color 0 0 92 -->
+
+<!-- Drawing segment A B -->
+<line x1="0.00" y1="8.00" x2="100.00" y2="8.00" style="stroke:#00005C; stroke-width:1.30"/>
+
+<!-- Changing color 0 0 93 -->
+
+<!-- Drawing segment A B -->
+<line x1="0.00" y1="7.00" x2="100.00" y2="7.00" style="stroke:#00005D; stroke-width:1.30"/>
+
+<!-- Changing color 0 0 94 -->
+
+<!-- Drawing segment A B -->
+<line x1="0.00" y1="6.00" x2="100.00" y2="6.00" style="stroke:#00005E; stroke-width:1.30"/>
+
+<!-- Changing color 0 0 95 -->
+
+<!-- Drawing segment A B -->
+<line x1="0.00" y1="5.00" x2="100.00" y2="5.00" style="stroke:#00005F; stroke-width:1.30"/>
+
+<!-- Changing color 0 0 96 -->
+
+<!-- Drawing segment A B -->
+<line x1="0.00" y1="4.00" x2="100.00" y2="4.00" style="stroke:#000060; stroke-width:1.30"/>
+
+<!-- Changing color 0 0 97 -->
+
+<!-- Drawing segment A B -->
+<line x1="0.00" y1="3.00" x2="100.00" y2="3.00" style="stroke:#000061; stroke-width:1.30"/>
+
+<!-- Changing color 0 0 98 -->
+
+<!-- Drawing segment A B -->
+<line x1="0.00" y1="2.00" x2="100.00" y2="2.00" style="stroke:#000062; stroke-width:1.30"/>
+
+<!-- Changing color 0 0 99 -->
+
+<!-- Drawing segment A B -->
+<line x1="0.00" y1="1.00" x2="100.00" y2="1.00" style="stroke:#000063; stroke-width:1.30"/>
+
+<!-- Changing color 0 0 100 -->
+
+<!-- Drawing segment A B -->
+<line x1="0.00" y1="0.00" x2="100.00" y2="0.00" style="stroke:#000064; stroke-width:1.30"/>
+
+<!-- Changing color 195 195 195 -->
+
+<!-- Filling circle Star rStar -->
+<circle cx="12.00" cy="13.00" r="0.20" fill="#C3C3C3" stroke="none"/>
+
+<!-- Changing color 113 113 113 -->
+
+<!-- Filling circle Star rStar -->
+<circle cx="45.00" cy="97.00" r="0.20" fill="#717171" stroke="none"/>
+
+<!-- Changing color 126 126 126 -->
+
+<!-- Filling circle Star rStar -->
+<circle cx="99.00" cy="97.00" r="0.20" fill="#7E7E7E" stroke="none"/>
+
+<!-- Changing color 187 187 187 -->
+
+<!-- Filling circle Star rStar -->
+<circle cx="27.00" cy="42.00" r="0.20" fill="#BBBBBB" stroke="none"/>
+
+<!-- Changing color 207 207 207 -->
+
+<!-- Filling circle Star rStar -->
+<circle cx="73.00" cy="86.00" r="0.20" fill="#CFCFCF" stroke="none"/>
+
+<!-- Changing color 129 129 129 -->
+
+<!-- Filling circle Star rStar -->
+<circle cx="6.00" cy="59.00" r="0.20" fill="#818181" stroke="none"/>
+
+<!-- Changing color 136 136 136 -->
+
+<!-- Filling circle Star rStar -->
+<circle cx="88.00" cy="78.00" r="0.20" fill="#888888" stroke="none"/>
+
+<!-- Changing color 193 193 193 -->
+
+<!-- Filling circle Star rStar -->
+<circle cx="34.00" cy="24.00" r="0.20" fill="#C1C1C1" stroke="none"/>
+
+<!-- Changing color 222 222 222 -->
+
+<!-- Filling circle Star rStar -->
+<circle cx="51.00" cy="91.00" r="0.20" fill="#DEDEDE" stroke="none"/>
+
+<!-- Changing color 179 179 179 -->
+
+<!-- Filling circle Star rStar -->
+<circle cx="62.00" cy="0.00" r="0.20" fill="#B3B3B3" stroke="none"/>
+
+<!-- Changing color 199 199 199 -->
+
+<!-- Filling circle Star rStar -->
+<circle cx="5.00" cy="67.00" r="0.20" fill="#C7C7C7" stroke="none"/>
+
+<!-- Changing color 216 216 216 -->
+
+<!-- Filling circle Star rStar -->
+<circle cx="80.00" cy="53.00" r="0.20" fill="#D8D8D8" stroke="none"/>
+
+<!-- Changing color 145 145 145 -->
+
+<!-- Filling circle Star rStar -->
+<circle cx="19.00" cy="30.00" r="0.20" fill="#919191" stroke="none"/>
+
+<!-- Changing color 208 208 208 -->
+
+<!-- Filling circle Star rStar -->
+<circle cx="96.00" cy="72.00" r="0.20" fill="#D0D0D0" stroke="none"/>
+
+<!-- Changing color 174 174 174 -->
+
+<!-- Filling circle Star rStar -->
+<circle cx="14.00" cy="8.00" r="0.20" fill="#AEAEAE" stroke="none"/>
+
+<!-- Changing color 203 203 203 -->
+
+<!-- Filling circle Star rStar -->
+<circle cx="67.00" cy="12.00" r="0.20" fill="#CBCBCB" stroke="none"/>
+
+<!-- Changing color 130 130 130 -->
+
+<!-- Filling circle Star rStar -->
+<circle cx="23.00" cy="45.00" r="0.20" fill="#828282" stroke="none"/>
+
+<!-- Changing color 189 189 189 -->
+
+<!-- Filling circle Star rStar -->
+<circle cx="90.00" cy="56.00" r="0.20" fill="#BDBDBD" stroke="none"/>
+
+<!-- Changing color 244 244 244 -->
+
+<!-- Filling circle Star rStar -->
+<circle cx="11.00" cy="23.00" r="0.20" fill="#F4F4F4" stroke="none"/>
+
+<!-- Changing color 120 120 120 -->
+
+<!-- Filling circle Star rStar -->
+<circle cx="88.00" cy="21.00" r="0.20" fill="#787878" stroke="none"/>
+
+<!-- Changing color 192 192 192 -->
+
+<!-- Filling circle Star rStar -->
+<circle cx="72.00" cy="37.00" r="0.20" fill="#C0C0C0" stroke="none"/>
+
+<!-- Changing color 208 208 208 -->
+
+<!-- Filling circle Star rStar -->
+<circle cx="5.00" cy="1.00" r="0.20" fill="#D0D0D0" stroke="none"/>
+
+<!-- Changing color 230 230 230 -->
+
+<!-- Filling circle Star rStar -->
+<circle cx="46.00" cy="69.00" r="0.20" fill="#E6E6E6" stroke="none"/>
+
+<!-- Changing color 128 128 128 -->
+
+<!-- Filling circle Star rStar -->
+<circle cx="84.00" cy="88.00" r="0.20" fill="#808080" stroke="none"/>
+
+<!-- Changing color 229 229 229 -->
+
+<!-- Filling circle Star rStar -->
+<circle cx="7.00" cy="36.00" r="0.20" fill="#E5E5E5" stroke="none"/>
+
+<!-- Changing color 109 109 109 -->
+
+<!-- Filling circle Star rStar -->
+<circle cx="28.00" cy="5.00" r="0.20" fill="#6D6D6D" stroke="none"/>
+
+<!-- Changing color 152 152 152 -->
+
+<!-- Filling circle Star rStar -->
+<circle cx="53.00" cy="88.00" r="0.20" fill="#989898" stroke="none"/>
+
+<!-- Changing color 194 194 194 -->
+
+<!-- Filling circle Star rStar -->
+<circle cx="91.00" cy="23.00" r="0.20" fill="#C2C2C2" stroke="none"/>
+
+<!-- Changing color 240 240 240 -->
+
+<!-- Filling circle Star rStar -->
+<circle cx="36.00" cy="95.00" r="0.20" fill="#F0F0F0" stroke="none"/>
+
+<!-- Changing color 155 155 155 -->
+
+<!-- Filling circle Star rStar -->
+<circle cx="65.00" cy="52.00" r="0.20" fill="#9B9B9B" stroke="none"/>
+
+<!-- Changing color 177 177 177 -->
+
+<!-- Filling circle Star rStar -->
+<circle cx="14.00" cy="77.00" r="0.20" fill="#B1B1B1" stroke="none"/>
+
+<!-- Changing color 181 181 181 -->
+
+<!-- Filling circle Star rStar -->
+<circle cx="82.00" cy="40.00" r="0.20" fill="#B5B5B5" stroke="none"/>
+
+<!-- Changing color 164 164 164 -->
+
+<!-- Filling circle Star rStar -->
+<circle cx="9.00" cy="12.00" r="0.20" fill="#A4A4A4" stroke="none"/>
+
+<!-- Changing color 198 198 198 -->
+
+<!-- Filling circle Star rStar -->
+<circle cx="47.00" cy="69.00" r="0.20" fill="#C6C6C6" stroke="none"/>
+
+<!-- Changing color 249 215 28 -->
+
+<!-- Filling circle Sun -->
+<circle cx="50.00" cy="50.00" r="8.00" fill="#F9D71C" stroke="none"/>
+
+<!-- Changing color 249 200 28 -->
+
+<!-- Filling circle O fixed -->
+<circle cx="50.00" cy="50.00" r="7.00" fill="#F9C81C" stroke="none"/>
+
+<!-- Changing color 75 0 130 -->
+
+<!-- Drawing circle orb -->
+<circle cx="50.00" cy="50.00" r="14.14" fill="none" stroke="#4B0082" stroke-width="0.10"/>
+
+<!-- Changing color 75 0 130 -->
+
+<!-- Drawing circle orb -->
+<circle cx="50.00" cy="50.00" r="18.38" fill="none" stroke="#4B0082" stroke-width="0.10"/>
+
+<!-- Changing color 75 0 130 -->
+
+<!-- Drawing circle orb -->
+<circle cx="50.00" cy="50.00" r="22.63" fill="none" stroke="#4B0082" stroke-width="0.10"/>
+
+<!-- Changing color 75 0 130 -->
+
+<!-- Drawing circle orb -->
+<circle cx="50.00" cy="50.00" r="26.87" fill="none" stroke="#4B0082" stroke-width="0.10"/>
+
+<!-- Changing color 75 0 130 -->
+
+<!-- Drawing circle orb -->
+<circle cx="50.00" cy="50.00" r="31.11" fill="none" stroke="#4B0082" stroke-width="0.10"/>
+
+<!-- Changing color 75 0 130 -->
+
+<!-- Drawing circle orb -->
+<circle cx="50.00" cy="50.00" r="35.36" fill="none" stroke="#4B0082" stroke-width="0.10"/>
+
+<!-- Changing color 75 0 130 -->
+
+<!-- Drawing circle orb -->
+<circle cx="50.00" cy="50.00" r="39.60" fill="none" stroke="#4B0082" stroke-width="0.10"/>
+
+<!-- Changing color 75 0 130 -->
+
+<!-- Drawing circle orb -->
+<circle cx="50.00" cy="50.00" r="43.84" fill="none" stroke="#4B0082" stroke-width="0.10"/>
+
+<!-- Changing color 169 169 169 -->
+
+<!-- Drawing circle Mercury -->
+<circle cx="37.63" cy="43.14" r="0.40" fill="none" stroke="#A9A9A9" stroke-width="0.10"/>
+
+<!-- Filling circle Mercury -->
+<circle cx="37.63" cy="43.14" r="0.40" fill="#A9A9A9" stroke="none"/>
+
+<!-- Changing color 238 221 130 -->
+
+<!-- Drawing circle Venus -->
+<circle cx="37.46" cy="36.55" r="0.80" fill="none" stroke="#EEDD82" stroke-width="0.10"/>
+
+<!-- Filling circle Venus -->
+<circle cx="37.46" cy="36.55" r="0.80" fill="#EEDD82" stroke="none"/>
+
+<!-- Changing color 0 102 204 -->
+
+<!-- Drawing circle Earth -->
+<circle cx="66.00" cy="34.00" r="1.00" fill="none" stroke="#0066CC" stroke-width="0.10"/>
+
+<!-- Filling circle Earth -->
+<circle cx="66.00" cy="34.00" r="1.00" fill="#0066CC" stroke="none"/>
+
+<!-- Changing color 188 39 50 -->
+
+<!-- Drawing circle Mars -->
+<circle cx="60.50" cy="25.27" r="0.50" fill="none" stroke="#BC2732" stroke-width="0.10"/>
+
+<!-- Filling circle Mars -->
+<circle cx="60.50" cy="25.27" r="0.50" fill="#BC2732" stroke="none"/>
+
+<!-- Changing color 255 165 79 -->
+
+<!-- Drawing circle Jupiter -->
+<circle cx="41.42" cy="20.09" r="2.50" fill="none" stroke="#FFA54F" stroke-width="0.10"/>
+
+<!-- Filling circle Jupiter -->
+<circle cx="41.42" cy="20.09" r="2.50" fill="#FFA54F" stroke="none"/>
+
+<!-- Changing color 210 180 140 -->
+
+<!-- Drawing circle Saturn -->
+<circle cx="62.67" cy="16.99" r="1.40" fill="none" stroke="#D2B48C" stroke-width="0.10"/>
+
+<!-- Filling circle Saturn -->
+<circle cx="62.67" cy="16.99" r="1.40" fill="#D2B48C" stroke="none"/>
+
+<!-- Changing color 173 216 230 -->
+
+<!-- Drawing circle Uranus -->
+<circle cx="73.50" cy="18.13" r="1.50" fill="none" stroke="#ADD8E6" stroke-width="0.10"/>
+
+<!-- Filling circle Uranus -->
+<circle cx="73.50" cy="18.13" r="1.50" fill="#ADD8E6" stroke="none"/>
+
+<!-- Changing color 0 0 128 -->
+
+<!-- Drawing circle Neptune -->
+<circle cx="78.53" cy="16.71" r="1.50" fill="none" stroke="#000080" stroke-width="0.10"/>
+
+<!-- Filling circle Neptune -->
+<circle cx="78.53" cy="16.71" r="1.50" fill="#000080" stroke="none"/>
+</svg>
