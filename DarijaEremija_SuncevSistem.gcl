@@ -14,6 +14,15 @@ color R G B
 fillcircle Star rStar
 }
 
+procedure drawPlanet {O O1 r ang} 
+{
+getx xAngle ang
+rotate pl O xAngle O1
+rotate rr O xAngle r
+circle Planeta pl rr
+fillcircle Planeta
+}
+
 
 %Gradijent
 number n 0
@@ -97,102 +106,68 @@ expression i {i -1}
 }
 
 %Merkur
-
 point O1 60 60
 point r 60 60.4
 point angle 2986 0 0 0
+color 238 221 130
 
-getx xAngle angle
-rotate pl O xAngle O1
-rotate rr O xAngle r
-circle Mercury pl rr
-color 169 169 169
-drawcircle Mercury
-fillcircle Mercury
+call drawPlanet {O O1 r angle}
 
 %Venera
 point O2 63 63 
 point r2 63 63.8
 point angle2 1168 0 0 0
-getx xAngle2 angle2
-rotate pl2 O xAngle2 O2
-rotate r2r O xAngle2 r2
-circle Venus pl2 r2r
 color 238 221 130
-drawcircle Venus
-fillcircle Venus
+
+call drawPlanet {O O2 r2 angle2}
 
 %Zemlja
 point O3 66 66
 point r3 66 67
 point angle3 720 0 00 0
-getx xAngle3 angle3
-rotate pl3 O xAngle3 O3
-rotate r3r O xAngle3 r3
-circle Earth pl3 r3r
 color 0 102 204
-drawcircle Earth
-fillcircle Earth
 
+call drawPlanet {O O3 r3 angle3}
 
 %Mars
 point O4 69 69
 point r4 69 69.5
 point angle4 382 0 0 0
-getx xAngle4 angle4
-rotate pl4 O xAngle4 O4
-rotate r4r O xAngle4 r4
-circle Mars pl4 r4r
 color 188 39 50
-drawcircle Mars
-fillcircle Mars
+
+call drawPlanet {O O4 r4 angle4}
 
 %Jupiter
 point O5 72 72
 point r5 72 74.5
 point angle5 61 0 0 0
-getx xAngle5 angle5
-rotate pl5 O xAngle5 O5
-rotate r5r O xAngle5 r5
-circle Jupiter pl5 r5r
 color 255 165 79
-drawcircle Jupiter
-fillcircle Jupiter
+
+call drawPlanet {O O5 r5 angle5}
 
 %Saturn
 point O6 75 75
 point r6 75 76.4
 point angle6 24 0 0 0
-getx xAngle6 angle6
-rotate pl6 O xAngle6 O6
-rotate r6r O xAngle6 r6
-circle Saturn pl6 r6r
 color 210 180 140
-drawcircle Saturn
-fillcircle Saturn
+
+call drawPlanet {O O6 r6 angle6}
 
 %Uran
 point O7 78 78
 point r7 78 79.5
 point angle7 8.6 0 0 0
-getx xAngle7 angle7
-rotate pl7 O xAngle7 O7
-rotate r7r O xAngle7 r7
-circle Uranus pl7 r7r
 color 173 216 230
-drawcircle Uranus
-fillcircle Uranus
+
+call drawPlanet {O O7 r7 angle7}
 
 %Neptun
 point O8 81 81
 point r8 81 82.5
 point angle8 4.4 0 0 0
-getx xAngle8 angle8
-rotate pl8 O xAngle8 O8
-rotate r8r O xAngle8 r8
-circle Neptune pl8 r8r
 color 0 0 128
-drawcircle Neptune
-fillcircle Neptune
+
+call drawPlanet {O O8 r8 angle8}
+
 
 animation_frames 100 20
