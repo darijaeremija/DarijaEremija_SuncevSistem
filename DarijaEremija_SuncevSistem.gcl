@@ -7,10 +7,8 @@ expression yStar {y + 0.2}
 point rStar x yStar
 random tStar
 
-expression R {255 - tStar* 150}
-expression G {255 - tStar* 150}
-expression B {255 - tStar* 150}
-color R G B
+expression C {255 - tStar* 150}
+color C C C
 fillcircle Star rStar
 }
 
